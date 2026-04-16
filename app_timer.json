@@ -1,4 +1,6 @@
 
 {
-    "app_timer": "00:30:00"
+    "app_valid_until": "4/16/2026",
+    "app_timer": "00:30:00",
+    "app_lock": "false"
 }
