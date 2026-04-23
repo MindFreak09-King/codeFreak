@@ -1,3 +1,5 @@
 {
-  "app_valid_until": "4/24/2026"
+  "app_valid_until": "4/29/2026",
+  "app_timer": "23:59:59",
+  "app_lock": "false"
 }
